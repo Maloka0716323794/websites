@@ -18,7 +18,7 @@ The Gillian-Computer-World project is the website that sells all types of comput
 ## Live Demo
 
 ​
-[Live Demo Link](https://github.com/Maloka0716323794/websites/blob/master/index.html)
+[Live Demo Link](http://127.0.0.1:5500/index.html)
 ​
 
 ## Getting Started
