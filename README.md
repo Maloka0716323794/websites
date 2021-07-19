@@ -1,12 +1,12 @@
-# Project-Design-Teardown
+# Gillian-Computer-World
 The Gillian-Computer-World project is the website that sells all types of computers
 
 ## Screenshot
 
-![Page screenshot](Images/short1.png)
-![Page screenshot](Images/shot2.png)
-![Page screenshot](Images/shot4.png)
-![Page screenshot](Images/shot3.png)
+![Page screenshot](Images/short1.PNG)
+![Page screenshot](Images/shot2.PNG)
+![Page screenshot](Images/shot4.PNG)
+![Page screenshot](Images/shot3.PNG)
 ## Built With
 
 - HTML
